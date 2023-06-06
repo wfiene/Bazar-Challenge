@@ -57,13 +57,10 @@ const Home = () => {
       ) : (
         <p>No matching profiles found.</p>
       )}
+      <div className="margin"></div>
       <footer>
         <div className="foot-content">
         <h4>Made by Walker Fiene</h4>
-        {/* <div className='foot-div'>
-            <img className='foot-img' src='https://cdn-icons-png.flaticon.com/512/25/25231.png' onClick={() => openInNewTab('https://github.com/wfiene')}></img>
-            <img className='foot-img' src='https://cdn-icons-png.flaticon.com/512/1384/1384014.png' onClick={() => openInNewTab('https://www.linkedin.com/in/walker-fiene-70045523b/')}></img>
-        </div> */}
         </div>
       </footer>
     </div>
