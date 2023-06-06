@@ -43,7 +43,7 @@ div {
 .profile-row:hover {
     transform: scale(1.05); 
     background-color: rebeccapurple; 
-    cursor: pointer;
+    cursor: crosshair;
     padding-left: 30px;
   }
   
